@@ -9,6 +9,7 @@ dependencies = [
     "duckdb>=1.5.6",
     "marimo[recommended]",
     "polars>=1.44.2",
+    "psutil>=7.2.2",
     "pyarrow>=25.0.1",
     "python-dotenv",
     "requests",
