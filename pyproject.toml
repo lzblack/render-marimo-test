@@ -1,0 +1,15 @@
+[project]
+name = "project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14,<3.15"
+dependencies = [
+    "altair>=6.3.0",
+    "duckdb>=1.5.6",
+    "marimo[recommended]",
+    "polars>=1.44.2",
+    "pyarrow>=25.0.1",
+    "python-dotenv",
+    "requests",
+]
